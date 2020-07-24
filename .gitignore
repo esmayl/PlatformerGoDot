@@ -1,4 +1,6 @@
 .import/
 .mono/
 .vs/
+obj/
 Properties/
+mono_*.*.*.json
